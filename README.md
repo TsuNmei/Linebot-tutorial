@@ -12,8 +12,3 @@
 
 ### 程式語言判別
 > runtimes : 你所用的程式語言&版本
-
-### 如果有問題可以email到我的信箱！
-email : meitzuen@gmail.com
-
-Thanks
